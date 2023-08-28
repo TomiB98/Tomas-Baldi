@@ -2,7 +2,7 @@
 
 - Soy Full Stack Web Developer 💻, con experiencia en la creación de aplicaciones web en JavaScript. Tengo objetivo es utilizar mis habilidades y conocimientos para contribuir al desarrollo de proyectos que desfien mis habilidades y me permitan seguir aprendiendo y creciendo dento del mundo del desarrollo web.
 
-Mis conocimientos tecnicos por el momento son 👨‍💻:
+> Mis conocimientos tecnicos por el momento son 👨‍💻:
 
 • Front-end: HTML, CSS, JavaScript, React, Redux, Vite.
 
@@ -14,13 +14,12 @@ Mis conocimientos tecnicos por el momento son 👨‍💻:
 
 • Herramientas y metodologías ágiles: Scrum, Git Flow.
 
-![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/22ce18a8-fbee-45ae-969d-a96d816ca78c)
+![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/376552a5-1903-4822-a134-056b194fcadb)
 
-git vite html css js react redux node express postgres
 
-Si deseas ver mas puedes encontrar algunos de mis proyectos hasta el momento mas abajo
+> Si deseas ver mas puedes encontrar algunos de mis proyectos hasta el momento mas abajo
 
-Mi informacion de contacto aqui:
+> Mi informacion de contacto aqui:
 
 📧 tomasbaldi@gmail.com
 LinkedIn: www.linkedin.com/in/tomás-baldi-193b41268
