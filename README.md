@@ -5,7 +5,7 @@ Me llamo Tomas Baldi
 
 > Mis conocimientos tecnicos por el momento son 👨‍💻:
 
-• Front-end: HTML, CSS, JavaScript, React, Redux, Vite.
+• Front-end: HTML, CSS, JavaScript, React/Native, Redux.
 
 • Back-end: Node.js, Express.
 
