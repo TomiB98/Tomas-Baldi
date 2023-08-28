@@ -14,6 +14,7 @@ Mis conocimientos tecnicos por el momento son 👨‍💻:
 
 • Herramientas y metodologías ágiles: Scrum, Git Flow.
 
+![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/22ce18a8-fbee-45ae-969d-a96d816ca78c)
 
 git vite html css js react redux node express postgres
 
