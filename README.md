@@ -14,11 +14,6 @@
 
 • Herramientas y metodologías ágiles: Scrum, Git Flow.
 
-![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/caa799f2-88f2-456c-ae12-065a5643c808) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/19da52a0-3cb8-4ea4-83c6-0d397b855c07)
-
-![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/34b591fe-e260-4863-8d88-1ab05a6d92db) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/a366f7ab-c1e6-4817-abcf-2a214dd1fce0)
-
-
 
 > Si deseas ver mas puedes encontrar algunos de mis proyectos hasta el momento mas abajo
 
