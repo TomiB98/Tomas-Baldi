@@ -6,9 +6,9 @@
 
 • Front-end: HTML, CSS, JavaScript, React/Native, Redux.
 
-• Back-end: Node.js, Express.
+• Back-end: Node.js, Express, PHP.
 
-• Base de datos: PostgreSQL.
+• Base de datos: PostgreSQL, MySQL.
 
 • Control de versiones: Git.
 
