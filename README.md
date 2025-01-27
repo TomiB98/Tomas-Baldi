@@ -15,8 +15,9 @@
 • Herramientas y metodologías ágiles: Scrum, Git Flow.
 
 ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/e745e823-14f2-4a10-8fd9-b8c433c91fff) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/c8b63429-c814-4024-b3da-a4e19bcc9ab2) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/a53a87f3-96e6-4a4e-af31-1bb2dd5d5f5e) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/dd8fa2dc-8035-4e2e-9f87-cd5df7e7dd89) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/24307a10-51c6-4a84-8856-625cce0e2899) ![image](https://github.com/TomiB98/Tomas-Baldi/assets/112419982/2b19d7ca-ce20-45bf-8b1d-620f05028b3c)
+<img src="https://github.com/TomiB98/Tomas-Baldi/assets/112419982/2b19d7ca-ce20-45bf-8b1d-620f05028b3c" width="130" height="48">
 <img src="https://github.com/user-attachments/assets/229fedfa-7d2b-43e6-9dfb-9187cfa853dc" width="48" height="48">
-<img src="https://github.com/user-attachments/assets/bb8bad1b-5da9-44f5-b529-22ecc3d805f5" width="100" height="40">
+<img src="https://github.com/user-attachments/assets/bb8bad1b-5da9-44f5-b529-22ecc3d805f5" width="130" height="40">
 
 
 
