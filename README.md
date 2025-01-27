@@ -6,7 +6,7 @@
 
 • Front-end: HTML, CSS, JavaScript, React.js, Redux, React Native.
 
-• Back-end: Node.js, Express, PHP.
+• Back-end: Node.js, Express, PHP, Java, Spring Boot, OpenAPI (Swagger), Microservicios.
 
 • Base de datos: PostgreSQL, MySQL.
 
